@@ -18,6 +18,10 @@ and visualizing insights through Grafana, we aim to facilitate quick, informed d
 teams, and enhance the interactive experience for fans. This pipeline promises to revolutionize how stakeholders
 interact with live game data, turning raw stats into actionable insights instantaneously.
 
+Example Scoreboard made using the pipline :
+![image](https://github.com/panshul24/Real-Time-NBA-Data-Analytics-Pipeline/assets/68370779/125d5982-a844-4a7a-b610-a246d4d5b397)
+
+
 Task 1: Data Ingestion
 
 Apache Kafka is the platform used for handling real-time data feeds. It is a distributed event streaming
